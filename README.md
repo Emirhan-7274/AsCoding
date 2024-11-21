@@ -1,6 +1,14 @@
 # AsCoding
 An encryption script
 
+# UPDATE
+# ------
+# I MADE A NEW VERSION CALLED
+# EMCODING
+# WHICH HAS A GOOD GUI
+
+
+
 ## How it works ##
 
 ![ASCII Example](https://github.com/CYBERSOLDIERwastaken/AsCoding/assets/96685085/8b2de76c-ec66-4f13-9f6f-4563e8d3c21c)

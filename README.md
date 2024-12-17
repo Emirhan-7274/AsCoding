@@ -1,4 +1,4 @@
-# AsCoding
+# EmCoding
 An encryption script
 
 # UPDATE
